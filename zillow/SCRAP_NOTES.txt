@@ -1,0 +1,55 @@
+https://www.zillow.com/homes/for_sale/Chester-NY-10918/61919_rid/13_zm/0_mmm/1_rs/
+https://www.zillow.com/homes/for_sale/Chester-NY-10918/61919_rid/13_zm/0_mmm/1_rs/
+https://www.zillow.com/homes/for_sale/Chester-NY-10918/61919_rid/13_zm/0_mmm/1_rs/
+
+//*[@id="yui_3_18_1_1_1533405654739_3450"]/text()
+
+
+
+
+# For Sale /PL/FR
+https://www.zillow.com/homes/for_sale/10918/priced_sort/1_mmm/1_fr/
+
+# Potential Listings
+https://www.zillow.com/homes/make_me_move/10918
+
+# For Rent
+https://www.zillow.com/homes/for_rent/10918
+
+# Recent Sold
+https://www.zillow.com/homes/recently_sold/10918
+
+# All
+https://www.zillow.com/homes/for_sale/Chester-NY-10918/61919_rid/priced_sort/41.448517,-74.123211,41.229153,-74.346371_rect/11_zm/1_mmm/1_fr/
+
+
+
+# Sort type
+
+# Newest
+https://www.zillow.com/homes/for_sale/Chester-NY-10918/pmf,pf_pt/61919_rid/41.457394,-74.132309,41.23806,-74.395638_rect/11_zm/
+
+# Cheapest 
+https://www.zillow.com/homes/for_sale/Chester-NY-10918/pmf,pf_pt/61919_rid/pricea_sort/41.457394,-74.132309,41.23806,-74.395638_rect/11_zm/
+
+# Price (High to Low)
+https://www.zillow.com/homes/for_sale/Chester-NY-10918/pmf,pf_pt/61919_rid/priced_sort/41.457394,-74.132309,41.23806,-74.395638_rect/11_zm/
+
+
+
+dict_keys(['Beds: ', 'Baths: ', 'Heating: ', 'Cooling: ', 'Basement', 'Basement Description: ', None, 'Attic', 'Attic Description: ', 'Appliances included: ', 'Floor size: ', 'Flooring: ', 'Other Interior Features', 'Room count: ', 'Sq Ft Source: ', 'Amenities: ', 'Spaces', 'Amenities', 'Type and Style', 'Structure type: ', 'Roof type: ', 'Exterior material: ', 'Siding Description: ', 'Construction Description: ', 'Dates', 'Last remodel year: ', 'Year Built Exception: ', 'Stories: ', 'Patio', 'Yard', 'Water', 'Water Description: ', 'View: ', 'Lot: ', 'Lot Description: ', 'Parcel #: ', 'Elementary school: ', 'Middle school: ', 'High school: ', 'School district: ', 'Transportation', 'Parking: ', 'Garbage: ', 'Hotwater: ', 'Sewer Description: ', 'Green Energy', 'Tax Source: ', 'Tax Amount: ', 'Tax Year: ', 'MLS #: ', 'Last sold: ', 'Price/sqft: ', 'Property Type: ', 'Status: ', 'Post Office: ', 'Included: ', 'Days on Zillow: ', 'Views since listing: '])
+
+
+
+
+
+dict_keys(['central_air_desc: ', 'heating_desc: ','roof_types: ','architectural_style: ''Stories: ', 'Other Exterior Features','grade_school: ''taxes_annual: ','original_listhub_key: '
+++++++++++++++++++++
+
+
+dict_keys(['Road Front Description: ', 'Available Utilities: ', 'Utilities On Abutting Site: ''
+++++++++++++++++++++
+
+
+dict_keys(['dining_rooms: ', 'living_rooms: ','fireplaces: ','View: ', 'Lot: ', 'exterior_features_desc:', 
+++++++++++++++++++++
