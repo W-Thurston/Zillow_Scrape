@@ -5,9 +5,11 @@
 # CSV
 *.csv
 
+# PNG
+*.png
+
 # python
 *.ipynb_checkpoints
-*.ipynb
 
 # Session Data files
 .RData
